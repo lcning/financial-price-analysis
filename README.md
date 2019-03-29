@@ -1,2 +1,2 @@
 # financial-price-analysis
-a practise to fianncial price analysis
+a practice to fianncial price analysis
